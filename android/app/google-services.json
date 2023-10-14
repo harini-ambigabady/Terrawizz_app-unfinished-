@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697424536642",
+    "project_id": "terrawizz-1b28b",
+    "storage_bucket": "terrawizz-1b28b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697424536642:android:47fc92d17c02d687c979db",
+        "android_client_info": {
+          "package_name": "com.example.terrawizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3J6F0CWLPi7gHgsPnSDwoQFtsX6ctnmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
